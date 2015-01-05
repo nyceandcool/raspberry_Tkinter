@@ -41,4 +41,4 @@ root.geometry('500x300+200+200')
 root.after(10,check_button)
 root.mainloop()
 
-creating a Graphical User interface with python for a raspberry pi GPIO input pin interface
+
